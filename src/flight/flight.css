@@ -1,0 +1,28 @@
+.flight-search {
+  display: flex;
+  justify-content: center;
+}
+.Flight-head {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  color: #fff;
+}
+select {
+  width: 200px;
+  margin: 10px;
+  font-size: 22px;
+}
+.searchBtn {
+  width: 80px;
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+  background-color: rgb(58, 209, 126);
+  color: #333;
+  border-radius: 10px;
+  color: white;
+}
+.sorry-msg {
+  text-align: center;
+}
